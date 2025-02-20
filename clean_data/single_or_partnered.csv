@@ -1,0 +1,955 @@
+single_status,R_age,R_yrsed,R_race,R_political,R_religion,R_gender,R_work,R_house,R_rent,R_citydweller,R_region
+partnered,52,16.0,Hispanic,democrat,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,28,17.0,NH white,democrat,jewish,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,31,14.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+single,35,12.0,NH white,democrat,other christian,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,69,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,53,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,58,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,45,13.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,65,17.0,NH white,democrat,none,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,53,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,34,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,65,17.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+single,65,16.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,89,13.0,NH white,democrat,other christian,male,retired,a one-family house detached from any other house,rented for cash,metro,west
+single,41,16.0,NH white,democrat,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,33,20.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,50,11.0,NH white,democrat,"other non-christian, please specify",male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,64,13.0,NH white,democrat,none,male,unemployed,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,38,17.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,48,13.0, NH black,democrat,"other non-christian, please specify",female,working,a building with 2 or more apartments,rented for cash,metro,west
+single,65,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,74,20.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,60,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,rented for cash,metro,west
+partnered,37,16.0,Hispanic,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,43,13.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,36,14.0, NH black,democrat,baptist - any denomination,female,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,68,16.0,NH white,democrat,baptist - any denomination,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,53,16.0,Hispanic,democrat,none,female,working,a one-family house detached from any other house,rented for cash,metro,west
+single,48,12.0,NH white,republican,catholic,female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+single,26,17.0,NH white,democrat,jewish,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,43,13.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,44,13.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,34,16.0,NH white,democrat,none,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,48,13.0,NH white,democrat,none,male,disabled,a building with 2 or more apartments,rented for cash,metro,south
+single,53,16.0,NH white,democrat,none,female,disabled,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,54,17.0,NH white,democrat,catholic,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+single,60,13.0,NH white,democrat,"other non-christian, please specify",female,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+single,41,17.0,NH white,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+single,68,16.0,NH white,democrat,none,male,retired,a building with 2 or more apartments,occupied without payment of cash rent,metro,south
+single,40,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,73,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,65,16.0,NH white,democrat,other christian,male,working,a one-family house attached to one or more houses,rented for cash,metro,northeast
+partnered,76,16.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,31,13.0,NH white,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,62,17.0,NH white,democrat,catholic,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+single,30,12.0,NH white,democrat,catholic,female,unemployed,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,54,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,38,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,other,a building with 2 or more apartments,rented for cash,metro,west
+partnered,31,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,64,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,47,13.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,40,16.0,NH white,other,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,37,12.0,NH white,democrat,none,female,other,a mobile home,owned or being bought by you or someone in your household,metro,south
+partnered,27,13.0,NH white,republican,eastern orthodox,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,73,13.0,NH white,democrat,"other non-christian, please specify",female,retired,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,27,17.0, NH Amer Indian,democrat,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,74,20.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,52,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,67,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,67,16.0,NH white,democrat,none,female,retired,a building with 2 or more apartments,rented for cash,metro,west
+partnered,48,14.0, NH Asian Pac Islander,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,53,17.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,38,16.0, NH Amer Indian,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,71,12.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,64,13.0,NH white,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,20,13.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,45,16.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,49,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,38,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,41,16.0, NH black,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,65,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,44,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,48,13.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,63,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house attached to one or more houses,rented for cash,metro,midwest
+single,50,12.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,56,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,34,12.0,NH white,democrat,none,male,disabled,a one-family house detached from any other house,rented for cash,metro,northeast
+single,65,16.0, NH black,democrat,baptist - any denomination,male,retired,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,36,13.0,NH white,democrat,pentecostal,female,disabled,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,42,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,22,13.0,NH white,democrat,none,male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,51,13.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,38,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,54,13.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,65,13.0,NH white,democrat,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+single,59,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,rented for cash,metro,west
+single,56,16.0,NH white,democrat,none,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,45,13.0, NH Other,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,56,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,68,17.0,NH white,democrat,eastern orthodox,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,56,17.0,NH white,republican,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+single,32,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,occupied without payment of cash rent,metro,northeast
+partnered,47,17.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,79,16.0,NH white,democrat,"other non-christian, please specify",male,retired,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,54,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,48,17.0,Hispanic,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,37,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,69,17.0,NH white,republican,mormon,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,non-metro,south
+partnered,56,13.0,NH white,democrat,jewish,male,disabled,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+single,44,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,70,13.0,NH white,republican,catholic,male,retired,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,43,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,62,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,61,16.0,NH white,democrat,none,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,43,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,53,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,41,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,38,20.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,42,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,55,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,49,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,unemployed,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,50,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,33,13.0,NH white,other,baptist - any denomination,female,disabled,a mobile home,owned or being bought by you or someone in your household,metro,south
+single,47,16.0,NH white,democrat,catholic,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+partnered,53,14.0,Hispanic,republican,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,28,12.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,60,20.0,NH white,republican,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,25,14.0,NH white,democrat,other christian,female,other,a one-family house attached to one or more houses,rented for cash,metro,west
+single,67,17.0,NH white,democrat,jewish,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+single,47,16.0, NH black,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+partnered,19,12.0, NH black,democrat,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,rented for cash,metro,south
+partnered,42,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,46,20.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,37,14.0,NH white,republican,"other non-christian, please specify",female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,62,14.0,NH white,democrat,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,34,13.0,NH white,republican,baptist - any denomination,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,49,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,40,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,54,16.0,NH white,democrat,none,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,65,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,54,13.0, NH Asian Pac Islander,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,39,13.0,NH white,democrat,other christian,female,other,a one-family house detached from any other house,occupied without payment of cash rent,metro,west
+single,60,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,59,20.0,NH white,democrat,none,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,39,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,59,13.0,NH white,democrat,none,female,unemployed,a building with 2 or more apartments,rented for cash,metro,west
+single,31,13.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,49,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,71,16.0,NH white,democrat,"other non-christian, please specify",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,40,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,33,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,75,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,53,13.0,Hispanic,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,59,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,36,13.0, NH black,democrat,baptist - any denomination,female,disabled,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,57,14.0,NH white,democrat,none,female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+single,68,16.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,55,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,48,14.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,68,13.0,NH white,democrat,none,male,retired,a building with 2 or more apartments,rented for cash,metro,west
+single,46,13.0, NH Other,democrat,baptist - any denomination,male,working,a mobile home,owned or being bought by you or someone in your household,metro,midwest
+partnered,49,16.0,NH white,democrat,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,58,9.0,NH white,republican,baptist - any denomination,male,disabled,a one-family house detached from any other house,rented for cash,metro,south
+partnered,31,13.0,Hispanic,republican,catholic,female,working,a one-family house detached from any other house,rented for cash,metro,south
+single,64,13.0,NH white,democrat,catholic,male,retired,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,60,16.0,Hispanic,democrat,jewish,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,46,16.0,Hispanic,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,53,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a building with 2 or more apartments,rented for cash,metro,west
+partnered,43,16.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,48,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,45,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a one-family house detached from any other house,rented for cash,metro,west
+single,53,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,61,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a building with 2 or more apartments,rented for cash,metro,west
+single,33,16.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,44,17.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,32,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,56,16.0,NH white,republican,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,32,13.0,NH white,democrat,buddhist,male,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,44,16.0,NH white,republican,eastern orthodox,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,36,13.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,45,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,50,11.0, NH black,democrat,catholic,female,working,a building with 2 or more apartments,occupied without payment of cash rent,metro,south
+partnered,38,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,22,13.0, NH black,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+single,36,14.0, NH Other,democrat,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,48,13.0,NH white,republican,mormon,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,44,20.0, NH Amer Indian,democrat,none,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,58,16.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,21,13.0,Hispanic,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,30,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,51,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,38,13.0,Hispanic,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,occupied without payment of cash rent,metro,west
+partnered,28,13.0,NH white,democrat,"other non-christian, please specify",female,other,a one-family house detached from any other house,rented for cash,metro,west
+partnered,44,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,45,20.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,rented for cash,metro,west
+single,54,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,24,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,33,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,43,13.0,Hispanic,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,32,16.0, NH black,democrat,baptist - any denomination,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,50,14.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,78,13.0,NH white,democrat,other christian,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,45,10.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,50,16.0,NH white,democrat,other christian,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,48,14.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,53,16.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,61,20.0,NH white,democrat,other christian,female,working,a building with 2 or more apartments,rented for cash,non-metro,west
+partnered,59,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,53,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,40,16.0, NH black,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,70,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,45,17.0,NH white,republican,other christian,female,other,a one-family house detached from any other house,rented for cash,metro,south
+partnered,56,13.0,Hispanic,democrat,catholic,male,disabled,a one-family house detached from any other house,rented for cash,metro,south
+partnered,49,16.0, NH Asian Pac Islander,republican,other christian,female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,53,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,43,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+partnered,53,12.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,53,12.0,NH white,democrat,catholic,male,disabled,a mobile home,owned or being bought by you or someone in your household,metro,northeast
+partnered,59,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+single,45,14.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,61,9.0, NH black,democrat,none,female,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,57,16.0, NH Other,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,50,16.0,NH white,other,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,46,16.0,NH white,democrat,none,male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,68,16.0, NH Other,democrat,"other non-christian, please specify",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,68,20.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,38,13.0,NH white,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,22,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+single,52,13.0, NH black,democrat,baptist - any denomination,male,disabled,a one-family house detached from any other house,rented for cash,metro,midwest
+single,69,13.0,NH white,republican,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,46,14.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,55,16.0,Hispanic,democrat,catholic,male,disabled,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+single,39,13.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,south
+single,70,13.0,NH white,democrat,baptist - any denomination,female,retired,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,39,17.0,Hispanic,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,49,13.0,NH white,democrat,other christian,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,66,17.0, NH black,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,rented for cash,metro,midwest
+single,67,13.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,67,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,60,16.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,30,12.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,22,16.0,NH white,democrat,catholic,male,unemployed,a one-family house attached to one or more houses,rented for cash,metro,northeast
+partnered,48,17.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,31,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,74,12.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,29,13.0,Hispanic,republican,catholic,female,disabled,a building with 2 or more apartments,rented for cash,non-metro,midwest
+partnered,45,13.0, NH black,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,64,13.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,75,9.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,61,20.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,59,13.0, NH black,democrat,none,female,disabled,a building with 2 or more apartments,rented for cash,metro,south
+partnered,43,13.0,NH white,democrat,other christian,male,working,a building with 2 or more apartments,rented for cash,metro,west
+single,47,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,55,17.0,NH white,democrat,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,61,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,50,13.0,NH white,democrat,"other non-christian, please specify",female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,45,17.0, NH Asian Pac Islander,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,66,13.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,52,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,38,13.0, NH black,democrat,catholic,female,unemployed,a one-family house attached to one or more houses,rented for cash,metro,midwest
+single,64,17.0,NH white,democrat,catholic,male,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,62,17.0, NH Amer Indian,democrat,"other non-christian, please specify",female,disabled,a one-family house attached to one or more houses,occupied without payment of cash rent,metro,west
+partnered,42,13.0,NH white,democrat,none,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,17.0,NH white,democrat,hindu,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,32,13.0,NH white,republican,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+single,32,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,32,17.0, NH black,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,32,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,57,16.0,NH white,republican,"other non-christian, please specify",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+single,50,12.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,79,16.0,NH white,democrat,muslim,male,unemployed,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,45,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,20,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,unemployed,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+single,55,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,46,13.0, NH Asian Pac Islander,democrat,catholic,male,working,a one-family house attached to one or more houses,rented for cash,metro,west
+single,58,20.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,occupied without payment of cash rent,metro,south
+single,61,12.0,NH white,democrat,"other non-christian, please specify",male,disabled,a one-family house attached to one or more houses,rented for cash,non-metro,northeast
+partnered,56,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,65,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,66,13.0, NH black,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,37,13.0,Hispanic,republican,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,59,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,60,16.0,NH white,democrat,catholic,female,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+single,48,16.0,NH white,democrat,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,57,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,57,13.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,39,20.0,NH white,democrat,eastern orthodox,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,58,16.0,NH white,democrat,jewish,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+single,44,14.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a mobile home,owned or being bought by you or someone in your household,metro,south
+partnered,63,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,65,16.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+single,53,16.0,NH white,democrat,jewish,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,51,12.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,60,12.0,Hispanic,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,59,17.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,29,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,32,14.0,Hispanic,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,76,12.0, NH black,democrat,pentecostal,male,retired,a one-family house detached from any other house,rented for cash,metro,northeast
+partnered,39,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,52,17.0,NH white,republican,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,59,17.0,Hispanic,democrat,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,30,16.0, NH Asian Pac Islander,democrat,other christian,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,61,13.0,Hispanic,democrat,other christian,male,other,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,44,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,70,16.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,62,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,53,20.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,57,13.0,NH white,democrat,none,male,disabled,a building with 2 or more apartments,rented for cash,metro,west
+partnered,40,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,70,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,53,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,occupied without payment of cash rent,metro,midwest
+partnered,35,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,70,14.0,NH white,republican,baptist - any denomination,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+single,73,13.0,NH white,democrat,"other non-christian, please specify",male,retired,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,57,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,unemployed,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+partnered,45,20.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+single,29,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,47,13.0,NH white,democrat,catholic,female,disabled,a mobile home,owned or being bought by you or someone in your household,metro,midwest
+partnered,55,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,42,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,45,17.0,NH white,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+single,56,17.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,50,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,48,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,58,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,62,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,39,20.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,20,12.0,Hispanic,democrat,other christian,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,62,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,53,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,46,14.0,NH white,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,58,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,65,17.0,NH white,democrat,none,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,41,17.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,rented for cash,metro,midwest
+partnered,31,9.0,NH white,democrat,none,male,working,a mobile home,owned or being bought by you or someone in your household,non-metro,midwest
+single,62,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,45,13.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,45,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a mobile home,owned or being bought by you or someone in your household,non-metro,south
+partnered,47,17.0,Hispanic,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,53,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,51,16.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,41,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,63,20.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,45,16.0,NH white,democrat,jewish,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,23,14.0,NH white,democrat,buddhist,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,57,17.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,39,17.0, NH black,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,62,12.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,70,17.0,NH white,democrat,none,male,retired,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,41,16.0,NH white,republican,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,61,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,62,20.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,30,12.0,NH white,democrat,baptist - any denomination,female,unemployed,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+single,51,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,52,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,53,14.0,Hispanic,democrat,catholic,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,83,17.0,NH white,democrat,other christian,female,retired,a one-family house detached from any other house,occupied without payment of cash rent,non-metro,west
+partnered,69,13.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,64,13.0,NH white,democrat,none,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,36,16.0,NH white,republican,none,male,working,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,55,16.0,NH white,democrat,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,51,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,35,12.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,29,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,rented for cash,metro,west
+single,66,11.0,NH white,democrat,"other non-christian, please specify",male,retired,a building with 2 or more apartments,rented for cash,non-metro,west
+single,48,16.0,NH white,democrat,none,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,67,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,54,13.0, NH Amer Indian,democrat,"other non-christian, please specify",female,disabled,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,38,12.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,60,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,60,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,61,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,45,13.0,NH white,republican,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,53,17.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,66,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,62,14.0,NH white,other,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,63,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,41,14.0,NH white,democrat,catholic,female,unemployed,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,70,13.0,NH white,democrat,other christian,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,55,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,occupied without payment of cash rent,metro,west
+partnered,32,13.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,20.0,Hispanic,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,56,13.0,NH white,democrat,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,33,16.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,39,16.0,NH white,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,56,20.0,Hispanic,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,rented for cash,metro,west
+single,57,13.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,67,17.0,Hispanic,democrat,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,72,11.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,rented for cash,metro,west
+partnered,50,17.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,27,14.0,NH white,republican,pentecostal,female,unemployed,a mobile home,rented for cash,metro,south
+partnered,52,12.0,Hispanic,republican,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,66,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,76,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,50,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,46,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,56,20.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,45,14.0,NH white,democrat,baptist - any denomination,female,disabled,a one-family house detached from any other house,rented for cash,non-metro,south
+partnered,44,12.0,NH white,democrat,none,female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,44,12.0,NH white,democrat,baptist - any denomination,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,54,16.0,NH white,democrat,jewish,male,retired,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+single,60,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,31,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,54,16.0,NH white,democrat,eastern orthodox,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,45,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,57,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,non-metro,west
+partnered,43,16.0,Hispanic,democrat,catholic,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,39,13.0,NH white,democrat,jewish,female,disabled,a building with 2 or more apartments,rented for cash,metro,west
+partnered,32,13.0,NH white,republican,other christian,female,working,a one-family house detached from any other house,rented for cash,non-metro,midwest
+single,34,16.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,65,17.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,39,17.0,NH white,democrat,jewish,male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,24,14.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,56,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,47,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,64,17.0,NH white,republican,jewish,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,56,20.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,76,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,35,17.0, NH Other,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,30,11.0,NH white,republican,none,female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,37,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,56,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,40,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,24,13.0,NH white,republican,"other non-christian, please specify",female,working,a building with 2 or more apartments,rented for cash,non-metro,west
+single,82,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+partnered,40,16.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,66,17.0,NH white,democrat,catholic,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,80,12.0,NH white,democrat,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,72,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,73,20.0,NH white,republican,catholic,male,retired,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+single,60,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,44,17.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,60,12.0,NH white,democrat,baptist - any denomination,male,disabled,a mobile home,owned or being bought by you or someone in your household,metro,south
+partnered,47,16.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,22,13.0,NH white,other,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,58,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,56,16.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,south
+single,47,20.0,NH white,democrat,none,female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,31,14.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,rented for cash,metro,south
+single,46,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,57,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,44,17.0,NH white,democrat,jewish,female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,41,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,47,16.0,Hispanic,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,76,16.0,NH white,democrat,catholic,male,retired,a building with 2 or more apartments,rented for cash,metro,west
+partnered,70,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,44,16.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,50,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,47,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,48,16.0,Hispanic,democrat,catholic,male,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+single,40,12.0,Hispanic,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,45,13.0,NH white,democrat,none,female,unemployed,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+partnered,34,17.0, NH black,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,26,13.0,Hispanic,democrat,other christian,female,unemployed,a building with 2 or more apartments,rented for cash,metro,west
+partnered,27,13.0,Hispanic,democrat,other christian,female,working,a one-family house attached to one or more houses,rented for cash,metro,northeast
+single,42,17.0,NH white,republican,none,male,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,21,13.0,NH white,republican,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,54,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,46,17.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,36,14.0, NH Asian Pac Islander,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+single,56,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,39,14.0,NH white,democrat,none,female,disabled,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,46,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+single,21,13.0,Hispanic,democrat,none,female,working,a one-family house attached to one or more houses,rented for cash,metro,south
+single,55,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,63,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,41,17.0, NH Asian Pac Islander,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,57,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,52,14.0,NH white,republican,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+single,43,16.0,NH white,democrat,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+partnered,53,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+partnered,62,12.0,NH white,democrat,mormon,male,disabled,a mobile home,owned or being bought by you or someone in your household,non-metro,south
+single,45,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,40,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,41,13.0,Hispanic,republican,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,47,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,south
+single,20,13.0,NH white,democrat,catholic,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,46,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,20,12.0,NH white,republican,other christian,female,working,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,51,12.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,56,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,64,17.0,NH white,democrat,jewish,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,51,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,21,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,52,13.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,23,14.0,Hispanic,democrat,"other non-christian, please specify",female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,17.0, NH black,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,51,17.0,NH white,republican,other christian,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,59,12.0,NH white,democrat,baptist - any denomination,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,44,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,57,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,49,16.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,54,13.0, NH Other,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,52,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,53,12.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,52,13.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,49,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,54,16.0, NH Asian Pac Islander,republican,hindu,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,44,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,50,14.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,40,16.0,Hispanic,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,89,13.0,NH white,democrat,none,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,36,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,55,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,47,13.0,NH white,democrat,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,49,16.0,NH white,republican,mormon,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,53,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,55,16.0, NH Amer Indian,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,52,20.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,43,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,44,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,42,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+partnered,46,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,59,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,39,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,31,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,63,17.0, NH Asian Pac Islander,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+single,61,13.0,NH white,democrat,"other non-christian, please specify",female,retired,a one-family house detached from any other house,occupied without payment of cash rent,metro,west
+partnered,52,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,36,13.0,NH white,democrat,none,female,unemployed,a building with 2 or more apartments,rented for cash,metro,west
+partnered,63,16.0,NH white,democrat,"other non-christian, please specify",female,retired,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,41,16.0,Hispanic,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,62,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,68,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+partnered,48,16.0, NH Other,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,44,20.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,61,16.0,NH white,democrat,pentecostal,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,42,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,29,16.0,NH white,democrat,none,female,unemployed,a building with 2 or more apartments,rented for cash,metro,west
+partnered,43,17.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,51,17.0,NH white,democrat,catholic,female,disabled,a building with 2 or more apartments,rented for cash,non-metro,northeast
+partnered,49,16.0,NH white,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,42,13.0,Hispanic,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,61,16.0,Hispanic,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,41,20.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,49,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,40,16.0,Hispanic,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,24,11.0,NH white,democrat,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,55,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,61,16.0, NH Other,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,30,13.0,NH white,democrat,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,rented for cash,metro,south
+partnered,48,14.0,NH white,republican,other christian,male,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,43,12.0,NH white,republican,other christian,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,49,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,39,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,56,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,37,13.0, NH black,democrat,baptist - any denomination,female,working,a building with 2 or more apartments,rented for cash,metro,south
+single,53,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,58,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,32,17.0,NH white,democrat,other christian,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,28,17.0,NH white,democrat,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,29,13.0,Hispanic,democrat,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,37,12.0, NH black,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,60,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,38,20.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,39,17.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,31,17.0, NH black,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,37,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,54,16.0,NH white,republican,none,female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,50,16.0,NH white,republican,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,49,13.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,50,12.0, NH black,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,35,13.0,NH white,republican,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,44,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,unemployed,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,42,16.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,56,14.0,NH white,republican,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,57,16.0,NH white,democrat,none,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,45,12.0,NH white,democrat,pentecostal,male,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,60,20.0, NH black,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,59,14.0, NH black,democrat,baptist - any denomination,female,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,58,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,58,17.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,47,20.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,43,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,50,20.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,56,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,46,17.0,NH white,other,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,24,11.0, NH Other,other,"other non-christian, please specify",male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,61,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,37,12.0, NH Amer Indian,republican,other christian,female,disabled,a building with 2 or more apartments,rented for cash,metro,west
+single,58,20.0, NH black,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,59,16.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,54,12.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,rented for cash,metro,south
+single,22,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,69,13.0,NH white,republican,baptist - any denomination,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,24,16.0, NH black,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,48,16.0,NH white,democrat,jewish,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+single,46,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,53,20.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,55,13.0,Hispanic,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,53,13.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,63,17.0,NH white,republican,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,41,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,43,20.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,45,13.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,54,13.0, NH Amer Indian,democrat,catholic,male,disabled,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,51,20.0,NH white,democrat,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,57,16.0,Hispanic,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,58,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,35,12.0,NH white,democrat,pentecostal,female,disabled,a one-family house detached from any other house,rented for cash,non-metro,west
+partnered,66,20.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,41,16.0,NH white,republican,hindu,male,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,74,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,38,13.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,59,13.0,NH white,democrat,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,37,13.0,NH white,republican,none,male,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,74,20.0, NH black,democrat,baptist - any denomination,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,27,12.0,NH white,democrat,none,male,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,61,20.0,NH white,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,27,14.0,NH white,republican,none,female,working,a building with 2 or more apartments,rented for cash,non-metro,west
+single,22,14.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,48,16.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,70,17.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,45,12.0,NH white,democrat,buddhist,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,45,14.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,46,16.0,NH white,democrat,catholic,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,55,20.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,40,17.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,13.0,Hispanic,democrat,baptist - any denomination,female,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,45,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,50,13.0,NH white,republican,catholic,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,35,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,36,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,50,16.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,37,12.0, NH black,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,rented for cash,metro,south
+partnered,64,13.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,48,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,45,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,48,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,49,14.0,NH white,democrat,catholic,male,disabled,a mobile home,owned or being bought by you or someone in your household,metro,midwest
+partnered,46,12.0,NH white,democrat,other christian,female,working,a one-family house attached to one or more houses,rented for cash,metro,northeast
+partnered,77,13.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,33,12.0, NH black,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,66,17.0, NH Other,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+partnered,39,13.0,NH white,democrat,none,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,41,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,33,13.0,NH white,other,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,49,12.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+partnered,52,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,65,13.0,NH white,democrat,other christian,male,retired,a one-family house detached from any other house,rented for cash,metro,midwest
+single,47,20.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,57,16.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,49,12.0, NH Other,democrat,catholic,male,disabled,a building with 2 or more apartments,rented for cash,metro,west
+partnered,51,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,19,13.0,NH white,democrat,"other non-christian, please specify",female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,49,16.0,NH white,democrat,none,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,52,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,43,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,55,17.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,69,7.5,NH white,democrat,baptist - any denomination,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,50,13.0,NH white,republican,jewish,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,31,12.0,NH white,democrat,catholic,female,disabled,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,22,13.0, NH black,democrat,baptist - any denomination,female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,28,17.0,NH white,democrat,"other non-christian, please specify",female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,21,13.0,NH white,republican,mormon,male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,43,16.0, NH black,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,50,17.0, NH black,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,52,16.0,NH white,democrat,none,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,44,16.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,25,13.0,Hispanic,democrat,none,female,other,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,56,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,19,13.0,NH white,republican,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,46,13.0,NH white,democrat,"other non-christian, please specify",female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,54,17.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,52,16.0,Hispanic,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,50,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,51,16.0,Hispanic,republican,none,female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,48,20.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,31,13.0,Hispanic,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,47,13.0,NH white,republican,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,49,20.0,NH white,democrat,buddhist,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,42,12.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,rented for cash,metro,northeast
+partnered,50,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,75,16.0,NH white,other,"other non-christian, please specify",male,working,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,44,16.0,Hispanic,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,west
+single,53,17.0, NH black,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,56,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,26,20.0, NH Other,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,45,16.0,NH white,democrat,none,female,other,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,46,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,45,16.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,57,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,44,16.0,NH white,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,34,16.0,NH white,republican,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,50,13.0,NH white,democrat,"other non-christian, please specify",male,disabled,"boat, rv, van, etc.",rented for cash,metro,northeast
+partnered,44,16.0, NH black,democrat,baptist - any denomination,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+single,73,20.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,39,13.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+partnered,40,13.0, NH black,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,48,16.0,Hispanic,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+single,69,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,midwest
+partnered,44,16.0,NH white,democrat,jewish,male,disabled,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+single,33,13.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+single,56,13.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,58,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,50,13.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,49,10.0, NH Other,republican,catholic,male,disabled,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,36,13.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,56,16.0,NH white,democrat,catholic,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,33,17.0, NH black,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,79,20.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,67,13.0, NH Other,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a mobile home,owned or being bought by you or someone in your household,metro,midwest
+single,27,13.0, NH Asian Pac Islander,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,38,14.0,NH white,democrat,other christian,female,disabled,a one-family house detached from any other house,rented for cash,non-metro,midwest
+partnered,21,13.0, NH black,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,48,17.0, NH black,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,47,16.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,36,14.0,NH white,republican,baptist - any denomination,female,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,55,13.0,NH white,republican,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,52,14.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,52,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,60,17.0,NH white,democrat,other christian,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,76,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+partnered,45,13.0, NH black,democrat,baptist - any denomination,female,disabled,a building with 2 or more apartments,rented for cash,metro,south
+single,43,12.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+single,55,17.0,NH white,democrat,buddhist,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,44,16.0,NH white,democrat,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,23,13.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,rented for cash,metro,midwest
+single,55,17.0, NH black,democrat,jewish,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,64,13.0,NH white,republican,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,40,13.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,34,12.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,56,17.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,south
+partnered,21,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,occupied without payment of cash rent,metro,south
+single,55,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,36,20.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,rented for cash,non-metro,south
+partnered,28,13.0,NH white,democrat,other christian,female,working,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,20,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,46,17.0,NH white,democrat,muslim,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,36,13.0, NH black,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,33,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,24,14.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,64,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,50,13.0,NH white,republican,"other non-christian, please specify",male,disabled,a one-family house detached from any other house,occupied without payment of cash rent,metro,south
+partnered,39,14.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,30,16.0,NH white,democrat,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,54,16.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,50,16.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,39,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,25,16.0,Hispanic,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,49,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,55,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,37,12.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,48,13.0, NH black,republican,pentecostal,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,52,12.0, NH black,democrat,baptist - any denomination,male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,40,14.0,Hispanic,democrat,catholic,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,45,13.0, NH black,democrat,baptist - any denomination,male,disabled,a one-family house detached from any other house,rented for cash,metro,south
+single,69,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,82,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,21,13.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,32,17.0,NH white,democrat,"other non-christian, please specify",female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,70,16.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,89,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,45,14.0,NH white,republican,other christian,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,29,16.0,NH white,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,46,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+single,68,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,45,17.0,Hispanic,democrat,none,female,unemployed,a one-family house attached to one or more houses,rented for cash,metro,west
+partnered,30,17.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,60,13.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,45,20.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,55,17.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,60,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,51,16.0, NH Asian Pac Islander,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,42,17.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,58,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,56,12.0,NH white,republican,pentecostal,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,22,13.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,66,14.0,NH white,republican,other christian,male,retired,a mobile home,owned or being bought by you or someone in your household,metro,west
+partnered,49,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,47,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,45,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,51,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,54,13.0,NH white,republican,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,27,13.0,NH white,democrat,buddhist,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,37,16.0, NH black,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,disabled,a one-family house detached from any other house,rented for cash,metro,south
+partnered,37,16.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+single,64,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a mobile home,owned or being bought by you or someone in your household,non-metro,northeast
+single,43,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,47,13.0,NH white,republican,pentecostal,female,other,a mobile home,owned or being bought by you or someone in your household,non-metro,south
+partnered,44,16.0,NH white,republican,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+single,53,17.0,NH white,democrat,pentecostal,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,48,12.0,NH white,democrat,none,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,54,14.0,NH white,democrat,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,47,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,33,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,rented for cash,non-metro,west
+partnered,46,16.0,NH white,democrat,catholic,male,working,a mobile home,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,67,14.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,42,16.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,44,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,55,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,rented for cash,metro,midwest
+partnered,19,13.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,54,13.0,NH white,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,50,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,36,16.0, NH black,democrat,baptist - any denomination,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,35,13.0,NH white,republican,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,32,16.0, NH black,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,36,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,south
+single,23,12.0,NH white,republican,baptist - any denomination,male,working,a mobile home,owned or being bought by you or someone in your household,metro,south
+partnered,25,17.0, NH Asian Pac Islander,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,other,a building with 2 or more apartments,rented for cash,metro,west
+partnered,52,12.0, NH Amer Indian,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,51,13.0,NH white,democrat,none,female,other,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,56,16.0,NH white,democrat,jewish,female,unemployed,a building with 2 or more apartments,rented for cash,metro,west
+partnered,42,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,62,16.0, NH Amer Indian,democrat,"other non-christian, please specify",female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,29,7.5,Hispanic,republican,catholic,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,29,13.0,NH white,democrat,catholic,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,53,16.0,NH white,democrat,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,60,12.0,NH white,republican,none,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,38,17.0,NH white,democrat,none,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+single,56,20.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,44,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,70,13.0,NH white,republican,catholic,male,retired,a mobile home,owned or being bought by you or someone in your household,metro,west
+partnered,46,14.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house attached to one or more houses,rented for cash,metro,south
+partnered,34,17.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,61,16.0,NH white,democrat,baptist - any denomination,male,retired,a building with 2 or more apartments,rented for cash,metro,south
+partnered,37,12.0,NH white,republican,buddhist,female,working,a one-family house detached from any other house,rented for cash,non-metro,west
+partnered,65,20.0,NH white,democrat,"other non-christian, please specify",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,37,14.0, NH black,democrat,baptist - any denomination,female,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,33,20.0, NH Other,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,43,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,30,13.0,Hispanic,democrat,other christian,female,disabled,a building with 2 or more apartments,rented for cash,metro,west
+partnered,49,16.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,59,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,65,16.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,52,20.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,43,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,57,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,37,14.0,NH white,republican,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,80,17.0,NH white,republican,catholic,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,67,16.0,NH white,democrat,other christian,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,61,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,50,14.0,NH white,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,23,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,51,13.0, NH black,democrat,other christian,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,33,16.0,NH white,democrat,catholic,female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,56,14.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,36,13.0,NH white,republican,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,36,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,44,20.0,NH white,democrat,buddhist,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,62,13.0,NH white,democrat,other christian,female,working,a building with 2 or more apartments,rented for cash,metro,south
+single,43,13.0,NH white,democrat,none,male,working,a building with 2 or more apartments,occupied without payment of cash rent,metro,west
+partnered,52,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,52,13.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,75,17.0,NH white,democrat,none,female,retired,a building with 2 or more apartments,rented for cash,metro,west
+single,44,17.0, NH black,democrat,none,female,working,a one-family house detached from any other house,rented for cash,metro,midwest
+single,23,9.0,NH white,other,none,female,other,a building with 2 or more apartments,occupied without payment of cash rent,metro,west
+single,63,13.0,NH white,democrat,none,male,disabled,a one-family house detached from any other house,rented for cash,metro,west
+partnered,23,14.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,27,12.0,Hispanic,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,48,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,disabled,a mobile home,owned or being bought by you or someone in your household,metro,west
+partnered,63,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,36,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,59,20.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,42,17.0,NH white,other,jewish,male,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,38,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,44,17.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,58,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,29,16.0,Hispanic,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,36,16.0,NH white,democrat,other christian,male,unemployed,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,45,16.0,NH white,democrat,"other non-christian, please specify",male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,39,17.0,NH white,republican,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,37,17.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,36,16.0,NH white,democrat,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,56,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,41,13.0,Hispanic,republican,catholic,male,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,48,12.0,NH white,democrat,catholic,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,30,16.0,NH white,republican,jewish,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,50,16.0,Hispanic,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,west
+single,23,16.0,NH white,other,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,48,16.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,43,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,36,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,other,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,36,17.0,NH white,democrat,baptist - any denomination,male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+partnered,42,20.0,NH white,democrat,"other non-christian, please specify",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,49,12.0,NH white,republican,mormon,female,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,55,16.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+single,74,13.0,NH white,democrat,"other non-christian, please specify",female,retired,a mobile home,owned or being bought by you or someone in your household,metro,west
+partnered,33,20.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,51,17.0,NH white,democrat,none,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+single,46,12.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,45,16.0, NH black,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,29,17.0,NH white,democrat,jewish,male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,58,12.0,NH white,democrat,baptist - any denomination,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,46,13.0,NH white,democrat,catholic,female,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,west
+partnered,22,13.0,NH white,democrat,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,58,17.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,midwest
+partnered,59,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,50,17.0, NH black,democrat,pentecostal,female,working,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,38,16.0,NH white,democrat,"other non-christian, please specify",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,41,13.0,NH white,democrat,other christian,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,23,13.0,Hispanic,democrat,none,male,unemployed,a one-family house attached to one or more houses,rented for cash,metro,west
+single,55,17.0,NH white,democrat,catholic,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,45,17.0, NH Asian Pac Islander,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,24,13.0, NH Amer Indian,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,42,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,62,13.0,NH white,democrat,catholic,female,retired,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
+partnered,48,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,43,20.0,NH white,democrat,jewish,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,27,14.0,NH white,republican,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,26,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,46,16.0,Hispanic,democrat,catholic,male,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,43,13.0,NH white,democrat,buddhist,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,43,14.0,NH white,democrat,none,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,27,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,63,16.0,NH white,democrat,jewish,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,west
+partnered,32,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,41,16.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+single,51,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,33,12.0,NH white,democrat,"other non-christian, please specify",female,working,a mobile home,owned or being bought by you or someone in your household,metro,west
+partnered,60,16.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,48,14.0,NH white,democrat,none,male,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,48,14.0,NH white,democrat,none,male,working,a building with 2 or more apartments,rented for cash,metro,south
+single,56,17.0, NH Amer Indian,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,46,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,56,14.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,south
+single,34,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,occupied without payment of cash rent,metro,south
+single,49,14.0, NH black,democrat,baptist - any denomination,female,unemployed,a one-family house attached to one or more houses,rented for cash,metro,northeast
+partnered,56,12.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,27,14.0, NH black,republican,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,23,12.0,NH white,democrat,other christian,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,south
+partnered,61,13.0,NH white,democrat,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,34,12.0,Hispanic,democrat,catholic,male,working,a building with 2 or more apartments,rented for cash,metro,midwest
+partnered,53,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,rented for cash,metro,south
+partnered,20,11.0,NH white,republican,catholic,female,other,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,52,16.0,Hispanic,democrat,pentecostal,female,disabled,a mobile home,owned or being bought by you or someone in your household,non-metro,west
+partnered,33,13.0,NH white,other,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,43,13.0,NH white,republican,other christian,female,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,56,13.0, NH Other,democrat,none,male,working,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,northeast
+partnered,47,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,49,13.0,NH white,republican,baptist - any denomination,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,34,16.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,64,17.0,NH white,democrat,none,female,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,61,13.0,Hispanic,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,57,13.0,NH white,democrat,other christian,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,31,16.0,Hispanic,democrat,none,female,other,a one-family house detached from any other house,rented for cash,metro,midwest
+partnered,62,13.0,NH white,republican,other christian,male,retired,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,27,12.0, NH black,democrat,pentecostal,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,northeast
+partnered,30,12.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,midwest
+partnered,26,13.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+single,57,16.0,Hispanic,democrat,catholic,male,unemployed,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,midwest
+partnered,56,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,54,17.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a building with 2 or more apartments,rented for cash,metro,west
+partnered,44,16.0,NH white,republican,baptist - any denomination,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,83,17.0,NH white,democrat,none,male,retired,a building with 2 or more apartments,owned or being bought by you or someone in your household,metro,west
+partnered,54,16.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,61,13.0,NH white,democrat,catholic,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,52,13.0,NH white,democrat,none,male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,non-metro,northeast
+partnered,53,20.0,NH white,democrat,none,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,south
+partnered,42,13.0,NH white,republican,catholic,female,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,62,13.0,NH white,democrat,"protestant (e.g., methodist, lutheran, presbyterian, episcopal)",male,working,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+single,44,13.0,Hispanic,democrat,baptist - any denomination,male,other,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,51,13.0,Hispanic,democrat,catholic,female,disabled,a one-family house detached from any other house,owned or being bought by you or someone in your household,metro,west
+partnered,50,14.0,NH white,republican,catholic,female,working,a one-family house detached from any other house,rented for cash,metro,west
+partnered,24,12.0, NH Amer Indian,democrat,"other non-christian, please specify",female,disabled,a building with 2 or more apartments,rented for cash,metro,northeast
+partnered,53,14.0,NH white,democrat,other christian,female,disabled,a one-family house attached to one or more houses,owned or being bought by you or someone in your household,metro,northeast
